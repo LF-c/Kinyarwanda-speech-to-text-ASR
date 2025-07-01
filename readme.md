@@ -174,14 +174,14 @@ AudioConfig:
 Due to GitHub file size limitations, model files have been packaged and uploaded to Releases:
 
 **Download from GitHub Releases**
-1. Visit the project's [Releases page](https://github.com/your-username/KinyaWhisper/releases)
+1. Visit the project's [Releases page](https://github.com/LF-c/KinyaWhisper/releases)
 2. Download the latest version of `model.zip` file
 3. Extract the downloaded archive to the project root directory
 4. Ensure the extracted `model/` folder contains all model files
 
 ```bash
 # Download and extract model files
-wget https://github.com/your-username/KinyaWhisper/releases/download/v1.0.0/model.zip
+wget https://github.com/LF-c/KinyaWhisper/releases/download/v1.0.0/model.zip
 unzip model.zip
 ```
 
